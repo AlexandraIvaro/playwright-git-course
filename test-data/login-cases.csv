@@ -1,0 +1,5 @@
+name,email,password,expectedHeading
+Primary customer,customer@practicesoftwaretesting.com,welcome01,My account
+Second customer,customer2@practicesoftwaretesting.com,welcome01,My account
+Third customer,customer3@practicesoftwaretesting.com,pass123,My account
+
